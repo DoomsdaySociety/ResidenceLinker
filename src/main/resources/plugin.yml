@@ -1,0 +1,7 @@
+name: ResidenceLinker
+version: '${version}'
+main: top.mrxiaom.residencelinker.ResidenceLinker
+depend: [ Residence ]
+commands:
+  reslinker:
+    description: Reload config
